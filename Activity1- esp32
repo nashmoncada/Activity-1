@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-#define NETWORK_SSID "slmrnkyl"
-#define NETWORK_PASS "salmorin0816"
+#define NETWORK_SSID "moncadanash"
+#define NETWORK_PASS "moncada0831"
 
 const int lampPins[] = {4, 16, 17, 5, 18};
 const int totalLamps = sizeof(lampPins) / sizeof(lampPins[0]);
